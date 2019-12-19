@@ -15,4 +15,5 @@ File Descriptions
 Filename                           Description
 =================================  ========================================
 pycbc_logo_notext.svg              icon
+pycbc_logo_name.png                icon with name, transparent background
 =================================  ========================================
